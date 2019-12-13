@@ -3,6 +3,7 @@
 - 服务端，back文件夹，使用fisco-bcos教程中提到的nodejs实现。
   - `packges/cli/contracts`中存放要部署的合约文件，Trust.sol。
   - `packges/cli/app.js`为后端的js API文件。
+  
 - 客户端，front文件夹，使用iview-admin模板。
   - `src/view/home.home.vue`存放前端vue文件。
   
@@ -31,3 +32,9 @@
   npm run dev
   ```
   运行成功会打开浏览器`localhost：8080`。
+
+
+
+- 浏览器界面如下：
+
+![QQ截图20191213211123](img/QQ截图20191213211123.png)
